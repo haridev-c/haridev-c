@@ -8,6 +8,13 @@ You can click the Preview link to take a look at your changes.
 <!---
 [![Haridev's GitHub stats](https://github-readme-stats.vercel.app/api?username=haridev-c&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 --->
+## My Tech Stack:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 ## 🏆 My Stats:
 
 <div align="center">
