@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 🏆 My Stats:
 
-<p>
+<div align="center">
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=haridev-c&show_icons=true&count_private=true&rank_icon=github" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haridev-c&layout=compact" />&nbsp;&nbsp;
-</p>
+</div>
