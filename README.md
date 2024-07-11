@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 ## My Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
   </a>
 </p>
 
