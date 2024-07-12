@@ -25,3 +25,5 @@
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haridev-c&layout=compact" />
     <img src="https://streak-stats.demolab.com?user=haridev-c&theme=dark&exclude_days=Sun%2CSat" alt="GitHub Streak" />
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haridev-c&label=Profile%20views&color=0e75b6&style=flat" alt="Profile View" /> </p>
