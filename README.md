@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Header](assets/header.gif)](https://github.com/haridev-c)
+[![Header](assets/banner.gif)](https://github.com/haridev-c)
 
 </div>
 
