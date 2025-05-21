@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs,tailwind,bootstrap,vscode,postman,vite,git,github,aws,docker,mysql,postgres,redis,redux,ubuntu,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs,mysql,postgres,redis,linux,docker,git,github,aws,tailwind,bootstrap,vite,redux,ubuntu,vscode,postman&perline=4" />
   </a>
 </p>
 
