@@ -21,8 +21,8 @@
 ## 🏆 My Stats
 
 <div align="center">
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=haridev-c&show_icons=true&count_private=true&rank_icon=github" />
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haridev-c&layout=compact" />
+    <!-- <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=haridev-c&show_icons=true&count_private=true&rank_icon=github" />
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haridev-c&layout=compact" /> -->
     <img src="https://streak-stats.demolab.com?user=haridev-c&theme=dark&exclude_days=Sun%2CSat" alt="GitHub Streak" />
 </div>
 
